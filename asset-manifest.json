@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KINJALKYADAV/WeatherApp/static/css/main.5a0949f7.css",
+    "main.js": "/KINJALKYADAV/WeatherApp/static/js/main.44e0fa06.js",
+    "static/media/matt-sclarandis-S_IV6KqGeso-unsplash.jpg": "/KINJALKYADAV/WeatherApp/static/media/matt-sclarandis-S_IV6KqGeso-unsplash.acc4891ea57e8446733b.jpg",
+    "index.html": "/KINJALKYADAV/WeatherApp/index.html",
+    "main.5a0949f7.css.map": "/KINJALKYADAV/WeatherApp/static/css/main.5a0949f7.css.map",
+    "main.44e0fa06.js.map": "/KINJALKYADAV/WeatherApp/static/js/main.44e0fa06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a0949f7.css",
+    "static/js/main.44e0fa06.js"
+  ]
+}
